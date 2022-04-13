@@ -1,1 +1,2 @@
-stg
+develop - > stg로 이관
+
